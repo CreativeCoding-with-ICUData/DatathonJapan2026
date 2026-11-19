@@ -1,6 +1,5 @@
 # 概要
 *  DatathonJapan2026内ハンズオンセミナー「データ可視化の最前線：生体情報モニターデータを３次元動的可視化でリデザイン」で使用する資料です。
-*  **当日スライド資料およびソースコードは当日午前までに更新予定です。**
 
 # 環境構築
 *  [HANDS-ON SEMINARS事前準備.pdf](https://github.com/CreativeCoding-with-ICUData/DatathonJapan2026/blob/main/HANDS-ON%20SEMINARS%E4%BA%8B%E5%89%8D%E6%BA%96%E5%82%99.pdf)を参考に準備をお願いします
